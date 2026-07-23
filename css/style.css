@@ -274,6 +274,11 @@ section { padding: 76px 0; }
 .resume-item h3 { font-size: 1.02rem; }
 .resume-item .org { color: var(--accent); font-size: 0.92rem; font-weight: 600; margin-top: 2px; }
 .resume-item p { color: var(--muted); font-size: 0.92rem; margin-top: 8px; }
+.resume-item ul { margin: 10px 0 0; padding-left: 18px; color: var(--muted); font-size: 0.92rem; }
+.resume-item ul li { margin-bottom: 6px; }
+.resume-subrole { margin-top: 18px; padding-left: 2px; border-left: 2px solid var(--border); padding-left: 16px; }
+.resume-subrole .subwhen { color: var(--muted-2); font-size: 0.8rem; font-weight: 600; }
+.resume-subrole h4 { font-size: 0.95rem; font-weight: 700; margin-top: 2px; }
 .skills-grid { display: flex; flex-wrap: wrap; gap: 8px; }
 .skills-grid .tag { background: var(--accent-dim); color: var(--accent); }
 
